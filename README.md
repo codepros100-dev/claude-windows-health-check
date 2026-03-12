@@ -201,6 +201,14 @@ MIT License -- see [LICENSE](LICENSE) for details.
 
 ---
 
+## Contact
+
+Built and maintained by **CodePros** ([@codepros100-dev](https://github.com/codepros100-dev)).
+
+For questions, custom development, or business inquiries: **codepros100@gmail.com**
+
+---
+
 ## Credits
 
 Built with [Claude Code](https://claude.ai/code) by Anthropic.
